@@ -1,4 +1,4 @@
-![image](https://github.com/shubh1357/Sale-Prediction/assets/31363651/7e9b55c9-cbf9-4101-aa5e-29486ca98646)# Sales Prediction
+# Sales Prediction
 Prediction weather a customer will buy in upcoming week or not.
 ## plots
 contains few plots for data under understanding.
