@@ -2,6 +2,7 @@
 Prediction weather a customer will buy in upcoming week or not.
 ## plots
 contains few plots for data under understanding.
+
 ![image](https://github.com/shubh1357/Sale-Prediction/assets/31363651/c1538894-35d0-46a1-a15f-d3872fe77d43)
 
 ![image](https://github.com/shubh1357/Sale-Prediction/assets/31363651/0eac6788-45c8-43a2-b964-c97d16d2722e)
@@ -32,9 +33,11 @@ Contains the steps and result of the modelling
 ### Result
 #### confusion metric
 Using SkLearn
+
 ![image](https://github.com/shubh1357/Sale-Prediction/assets/31363651/bfdf4575-6877-4358-9755-6623db245718)
 
 Using Stats model
+
 ![image](https://github.com/shubh1357/Sale-Prediction/assets/31363651/02302aaf-a8da-4b77-9272-87c7b959b3aa)
 
 #### Scores
@@ -44,6 +47,7 @@ Using SKlearn library
 ![image](https://github.com/shubh1357/Sale-Prediction/assets/31363651/c98ac27c-89d0-4f08-bbb4-a03ec75f85b0)
 
 Using Stats model
+
 ![image](https://github.com/shubh1357/Sale-Prediction/assets/31363651/2b543393-278c-42e7-812d-5a61c3f84c2f)
 
 ![image](https://github.com/shubh1357/Sale-Prediction/assets/31363651/002c3923-8db7-42fa-8a2e-358c11cad331)
